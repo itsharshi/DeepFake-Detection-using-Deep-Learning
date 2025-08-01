@@ -35,7 +35,7 @@
   <div class="section">
     <h2>🧠 Model Architecture</h2>
 
-<img src="assests/Screenshot 2025-06-22 154155.png" alt="Architecture Diagram" width="600">
+<img src="/Screenshot 2025-06-22 154155.png" alt="Architecture Diagram" width="600">
 
 
 
@@ -60,13 +60,13 @@
   <h3>1. Training vs Testing Accuracy</h3>
   <p>This graph visualizes how well the model performs across epochs, helping identify overfitting or underfitting.</p>
   <div style="text-align: center;">
-    <img src="assests/Screenshot 2025-06-22 160119.png" alt="Training vs Testing Accuracy" width="600">
+    <img src="/Screenshot 2025-06-22 160119.png" alt="Training vs Testing Accuracy" width="600">
   </div>
 
   <h3>2. Confusion Matrix</h3>
   <p>The confusion matrix shows how well the model distinguishes between real and deepfake videos.</p>
   <div style="text-align: center;">
-    <img src="assests/Screenshot 2025-06-22 155958.png" alt="Confusion Matrix" width="600">
+    <img src="/Screenshot 2025-06-22 155958.png" alt="Confusion Matrix" width="600">
   </div>
   <h2>3. Classification Report</h2>
     <ul>
@@ -75,7 +75,7 @@
       <li><strong>Recall:</strong> Correctly identified deepfakes out of all actual deepfakes</li>
       <li><strong>F1 Score:</strong> Balance between precision and recall</li>
     </ul>
-    <img src="assests/Screenshot 2025-06-22 155027.png" alt="Architecture Diagram" width="600">
+    <img src="/Screenshot 2025-06-22 155027.png" alt="Architecture Diagram" width="600">
 </div>
 
 
